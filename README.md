@@ -1,15 +1,15 @@
 # vueDemos
-这是自己看demo写的练习vue的各种特性
+这是自己看demo写的练习vue的各种特性,没有样式。请多见谅。基于webpack+vue+node+npm
 
 > A Vue.js project
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 启动服务
 npm run dev
 
 # build for production with minification
